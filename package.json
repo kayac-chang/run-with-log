@@ -1,6 +1,6 @@
 {
   "name": "@kayac/run-with-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap function with custom log message function",
   "license": "MIT",
   "repository": "kayac-chang/run-with-log",
