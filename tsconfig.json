@@ -1,3 +1,8 @@
 {
-  "extends": "@tsconfig/node18/tsconfig.json"
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true
+  },
+  "exclude": ["**/*.test.ts"]
 }
